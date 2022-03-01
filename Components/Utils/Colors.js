@@ -1,0 +1,15 @@
+export const COLORS = {
+  onBoardOnePrimary: '#8AE1B2',
+  onBoardTwoPrimary: '#F0EEF1',
+  onBoardThreePrimary: '#F4F691',
+  onBoardFourPrimary: '#262624',
+  onBoardOneSecondary: '#1ECD6E',
+  onBoardTwoSecondary: '#F178B6',
+  onBoardThreeSecondary: '#BCAA0C',
+  onBoardFourSecondary: '#FFFFFF',
+  onBoardOneTextPrimary: '#057438',
+  onBoardTwoTextPrimary: '#F178B6',
+  onBoardThreeTextPrimary: '#BCAA0C',
+  onBoardFourTextPrimary: '#FFFFFF',
+  onBoardTextSecondary: '#999197',
+};
