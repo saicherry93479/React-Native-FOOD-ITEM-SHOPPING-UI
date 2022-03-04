@@ -1,7 +1,7 @@
 # React-Native-FOOD-ITEM-SHOPPING-UI
 
 ## This is  REACT-NATIVE UI for a vegetables shopping App 
-## This are some of pics
+## sample pictures of project
 ![One](https://user-images.githubusercontent.com/70464077/156236619-925be657-2511-437b-b8f6-7108b391c95d.png)
 ![Two](https://user-images.githubusercontent.com/70464077/156236638-416686fa-8604-43d5-8d23-361542c8fb75.png)
 ![three](https://user-images.githubusercontent.com/70464077/156236649-8172ef9a-b362-408e-b92d-4af076a2c13b.png)
